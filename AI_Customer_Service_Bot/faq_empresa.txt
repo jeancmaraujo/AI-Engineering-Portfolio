@@ -1,0 +1,24 @@
+BASE DE CONHECIMENTO - TECH SOLUTIONS E-COMMERCE
+
+1. QUEM SOMOS:
+A Tech Solutions é um e-commerce especializado na venda de hardwares para servidores, placas de vídeo e processadores de última geração.
+
+2. POLÍTICA DE FRETE E ENTREGA:
+- Oferecemos Frete Grátis para todo o Brasil em compras acima de R$ 1.500,00.
+- Para compras abaixo desse valor, o frete é calculado no carrinho com base no CEP.
+- O prazo de entrega padrão para capitais é de 2 a 5 dias úteis, e para o interior de 5 a 12 dias úteis.
+- Não realizamos envios internacionais.
+
+3. POLÍTICA DE TROCAS E DEVOLUÇÕES (ARREPENDIMENTO):
+- O cliente tem até 7 dias corridos após o recebimento para solicitar a devolução por arrependimento, conforme o Código de Defesa do Consumidor.
+- O produto deve ser devolvido na embalagem original, sem sinais de uso, sem violação dos lacres e com a nota fiscal.
+- Placas de vídeo abertas que foram testadas em mineração de criptomoedas ou submetidas a stress test perdem a garantia da loja e não serão aceitas como devolução de arrependimento.
+
+4. GARANTIA DE DEFEITO:
+- Todos os produtos possuem garantia legal de 90 dias diretamente conosco.
+- Após esse período, o cliente deve acionar a garantia estendida (1 a 3 anos, dependendo da peça) diretamente com o fabricante.
+
+5. HORÁRIO E CANAL DE ATENDIMENTO:
+- Nosso atendimento online com agentes humanos funciona de Segunda a Sexta-feira, das 09:00 às 18:00.
+- Aos finais de semana, apenas o assistente virtual (IA) está disponível.
+- Para tratar de assuntos urgentes ou se houver problemas de acesso, nosso email oficial é: suporte@techsolutions.com.br.
