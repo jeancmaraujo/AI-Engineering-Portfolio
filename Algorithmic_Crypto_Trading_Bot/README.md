@@ -1,22 +1,30 @@
+
+---
+
+### 2. Coloque isso no README do `Algorithmic_Crypto_Trading_Bot`:
+
+```markdown
 # Algorithmic Crypto Trading Bot
+*Status: Python, Trading Algorithms, WebSockets*
 
-## 🧠 Overview
-A highly robust financial automation system built in Python that tracks, measures, and trades cryptocurrency perpetual futures via Telegram. This asynchronous bot continuously monitors dynamic altcoin markets (e.g. BTC, SOL) by aggregating price feeds and executing sophisticated technical indicators (RSI, SMA).
+### 📌 Overview
+A highly robust financial automation system built in Python that tracks, measures, and trades cryptocurrency perpetual futures via Telegram. This asynchronous bot continuously monitors dynamic altcoin markets by aggregating price feeds and executing sophisticated technical indicators (RSI, SMA).
 
-## ⚙️ Architecture & Features
-- **Data Integration:** Utilizes the `ccxt` library for high-speed Binance WebSocket/REST connections and calls decentralized API aggregators (Jupiter/Birdeye).
-- **Mathematical Indicators:** The backend algorithm calculates custom Relative Strength Index (RSI) periods, Moving Averages, and exponential price movements, leveraging statistical bounds to dictate entry positions.
-- **Alert System:** Features a highly resilient `python-telegram-bot` architecture ensuring async, non-blocking delivery of buy/sell signals to end users.
+### 🚀 Features
+- **Data Integration:** Utilizes the `ccxt` library for high-speed Binance WebSocket/REST connections and decentralizes API aggregations (Jupiter/Birdeye).
+- **Mathematical Indicators:** Calculates custom Relative Strength Index (RSI) periods, Moving Averages, and exponential price movements, leveraging statistical bounds to dictate entry positions.
 - **Fault-Tolerance:** Includes automated error recovery sweeps and rate-limiting buffers to handle volatile market events safely.
+- **Asynchronous Alerts:** Features a highly resilient `python-telegram-bot` architecture for non-blocking delivery of buy/sell signals.
 
-## 🚀 Business Application
-Demonstrates advanced capabilities in building reliable financial technology backend services. It highlights practical experience in:
-1. Working with high-frequency **financial REST/WebSocket APIs**.
-2. Translating complex **mathematical strategies** into deployable Python logic.
-3. Developing consumer-facing interactive Telegram AI bots.
+### 🛠️ Tech Stack
+- **Language:** Python
+- **Exchanges Integration:** ccxt, REST APIs
+- **Bot Engine:** python-telegram-bot
 
-## Getting Started
+### ⚙️ Installation & Setup
+1. **Clone & Install:** `pip install -r requirements.txt`
+2. **Environment Variables:** Set your Telegram Token and Exchange API keys in the `.env` file.
+
+### 💻 Usage
 ```bash
-pip install -r requirements.txt
 python bot.py
-```
