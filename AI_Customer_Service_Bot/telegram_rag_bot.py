@@ -11,7 +11,7 @@ MODEL_NAME = "llama3.1"
 FAQ_FILE = "faq_empresa.txt"
 
 # Insert your Telegram Bot token here (From BotFather)
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8342911539:AAFd19ZheTKzwzQmE7jK953ZkyIvyXiZmEE")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "COLOQUE_SEU_TOKEN_AQUI")
 
 def load_knowledge_base():
     """Loads the local text file explicitly used for Simple RAG indexing."""
