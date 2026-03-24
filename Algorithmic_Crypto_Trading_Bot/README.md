@@ -1,4 +1,3 @@
-```markdown
 # Algorithmic Crypto Trading Bot
 *Status: Python, Trading Algorithms, WebSockets*
 
