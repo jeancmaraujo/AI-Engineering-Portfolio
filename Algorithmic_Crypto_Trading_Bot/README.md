@@ -1,8 +1,3 @@
-
----
-
-### 2. Coloque isso no README do `Algorithmic_Crypto_Trading_Bot`:
-
 ```markdown
 # Algorithmic Crypto Trading Bot
 *Status: Python, Trading Algorithms, WebSockets*
