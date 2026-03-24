@@ -1,0 +1,187 @@
+{
+    "estrategia": "Multi-Source Consensus Filtering (Rodada 0)",
+    "titulares": [
+        {
+            "atleta_id": 104118,
+            "nome": "Lucas Arcanjo",
+            "clube": "VIT",
+            "posicao": "gol",
+            "preco": 10.11,
+            "media": 7.87,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 97867,
+            "nome": "Léo Ortiz",
+            "clube": "FLA",
+            "posicao": "zag",
+            "preco": 9.66,
+            "media": 5.22,
+            "score_consenso": 10.0,
+            "tracking_fontes": "Cartola Oficial | 🐦 Indicado no Twitter (1 votos)"
+        },
+        {
+            "atleta_id": 97653,
+            "nome": "Murilo",
+            "clube": "PAL",
+            "posicao": "zag",
+            "preco": 8.07,
+            "media": 4.88,
+            "score_consenso": 10.0,
+            "tracking_fontes": "Cartola Oficial | 🐦 Indicado no Twitter (1 votos)"
+        },
+        {
+            "atleta_id": 82775,
+            "nome": "Lucas Ramon",
+            "clube": "SAO",
+            "posicao": "lat",
+            "preco": 13.72,
+            "media": 10.35,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 116065,
+            "nome": "Cuiabano",
+            "clube": "VAS",
+            "posicao": "lat",
+            "preco": 14.32,
+            "media": 10.34,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 63007,
+            "nome": "Neymar",
+            "clube": "SAN",
+            "posicao": "mei",
+            "preco": 22.63,
+            "media": 10.77,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 89837,
+            "nome": "Lucho Acosta",
+            "clube": "FLU",
+            "posicao": "mei",
+            "preco": 12.77,
+            "media": 8.53,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 89274,
+            "nome": "Andreas Pereira",
+            "clube": "PAL",
+            "posicao": "mei",
+            "preco": 14.52,
+            "media": 7.35,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 94583,
+            "nome": "Pedro",
+            "clube": "FLA",
+            "posicao": "ata",
+            "preco": 16.65,
+            "media": 7.32,
+            "score_consenso": 103.4,
+            "tracking_fontes": "Cartola Oficial | 🔥 Dica do Escala 10 | 🐦 Indicado no Twitter (3 votos) | 📊 Tática Sofascore: 7.8"
+        },
+        {
+            "atleta_id": 95131,
+            "nome": "Gabriel Taliari",
+            "clube": "REM",
+            "posicao": "ata",
+            "preco": 10.91,
+            "media": 10.1,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 114802,
+            "nome": "Vitor Roque",
+            "clube": "PAL",
+            "posicao": "ata",
+            "preco": 17.99,
+            "media": 8.72,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 88963,
+            "nome": "Leonardo Jardim",
+            "clube": "FLA",
+            "posicao": "tec",
+            "preco": 14.14,
+            "media": 8.55,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        }
+    ],
+    "banco": [
+        {
+            "atleta_id": 72294,
+            "nome": "Everson",
+            "clube": "CAM",
+            "posicao": "gol",
+            "preco": 10.29,
+            "media": 5.82,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 99274,
+            "nome": "Alexander Barboza",
+            "clube": "BOT",
+            "posicao": "zag",
+            "preco": 11.79,
+            "media": 5.76,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 105531,
+            "nome": "Matheus Bidu",
+            "clube": "COR",
+            "posicao": "lat",
+            "preco": 13.29,
+            "media": 8.5,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 99440,
+            "nome": "Baralhas",
+            "clube": "VIT",
+            "posicao": "mei",
+            "preco": 10.23,
+            "media": 6.67,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        },
+        {
+            "atleta_id": 123648,
+            "nome": "Lucas Ronier",
+            "clube": "CFC",
+            "posicao": "ata",
+            "preco": 10.58,
+            "media": 8.38,
+            "score_consenso": 0.0,
+            "tracking_fontes": "Cartola Oficial"
+        }
+    ],
+    "capitao": {
+        "atleta_id": 94583,
+        "nome": "Pedro",
+        "clube": "FLA",
+        "posicao": "ata",
+        "preco": 16.65,
+        "media": 7.32,
+        "score_consenso": 103.4,
+        "tracking_fontes": "Cartola Oficial | 🔥 Dica do Escala 10 | 🐦 Indicado no Twitter (3 votos) | 📊 Tática Sofascore: 7.8"
+    }
+}
